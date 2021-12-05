@@ -1,0 +1,236 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"content",
+				"align-content"
+			],
+			[
+				"paddin",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control ",
+				"Package Control: Install Package"
+			],
+			[
+				"install package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/brettcavanagh/Desktop/CRM/templates/c_3_vivant/experience_summary_2.html",
+		"/Users/brettcavanagh/Desktop/CRM/templates/c_3_vivant/Experience_Summary_Postman.html",
+		"/Users/brettcavanagh/Desktop/CRM/templates/c_3_vivant/experience_summary_2_550px.html",
+		"/Users/brettcavanagh/Downloads/Bold testing_20210924120914/Variant 1.html",
+		"/Users/brettcavanagh/Desktop/GTM Mano Mano/mParticle -[SDK] - Initialization.js",
+		"/Users/brettcavanagh/Library/Application Support/Sublime Text/Packages/User/liquid.sublime-syntax",
+		"/Users/brettcavanagh/Library/Application Support/Sublime Text/Packages/User/Mariana.sublime-color-scheme",
+		"/Users/brettcavanagh/Library/Application Support/Sublime Text/Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+		"/Users/brettcavanagh/Desktop/test.liq",
+		"/Users/brettcavanagh/Library/Application Support/Sublime Text/Packages/User/Package Control.sublime-settings",
+		"/Users/brettcavanagh/Desktop/CRM/templates/c_3_vivant/experience_reminder_2.html",
+		"/Users/brettcavanagh/Desktop/CRM/templates/c_3_vivant/experience_confirmation_2.html",
+		"/Users/brettcavanagh/Desktop/CRM/templates/c_1_lingoda/master_template.html",
+		"/Users/brettcavanagh/Desktop/CRM/templates/c_3_vivant/example_for_loop.liq.html",
+		"/Users/brettcavanagh/Desktop/CRM/templates/c_3_vivant/experience_summary.html",
+		"/Users/brettcavanagh/Desktop/CRM/templates/c_1_lingoda/lowerBlockTesting.html",
+		"/Users/brettcavanagh/Desktop/GTM Mano Mano/Clean/mParticle - [SDK] - Initialization Clean.js",
+		"/Users/brettcavanagh/Desktop/GTM Mano Mano/Clean/mParticle - [nav] - Page View Clean.js",
+		"/Users/brettcavanagh/Desktop/GTM Mano Mano/Clean/mParticle - [eCommerce] - Purchase Clean.js",
+		"/Users/brettcavanagh/Desktop/GTM Mano Mano/Clean/mParticle - [eCommerce] - Product View Clean.js",
+		"/Users/brettcavanagh/Desktop/GTM Mano Mano/Clean/mParticle - [eCommerce] - Add To Cart Clean.js",
+		"/Users/brettcavanagh/Desktop/GTM Mano Mano/Clean/mParticle - [consent] - set marketing GDPR Clean.js",
+		"/Users/brettcavanagh/Desktop/GTM Mano Mano/Clean/mParticle - [consent] - modify marketing GDPR Clean.js",
+		"/Users/brettcavanagh/Desktop/FinalLingodaUTMTest.html",
+		"/Users/brettcavanagh/Desktop/ExporterOutput.txt",
+		"/Users/brettcavanagh/Desktop/GTM Mano Mano/mParticle - [SDK] - Initialization.js",
+		"/Users/brettcavanagh/Downloads/Vivant experience summary.html",
+		"/Users/brettcavanagh/Downloads/Email Template_20210907101631/Copy of Master Template.html",
+		"/Users/brettcavanagh/Desktop/GTM Mano Mano/mParticle -[consent] - modify markeying GDPR.js",
+		"/Users/brettcavanagh/Desktop/GTM Mano Mano/mParticle -[eCommerce] - Add TO Cart.js",
+		"/Users/brettcavanagh/Desktop/GTM Mano Mano/Clean/mParticle - Page View Clean.js",
+		"/Users/brettcavanagh/Desktop/GTM Mano Mano/Clean/mParticle -[session] - Log out Clean.js",
+		"/Users/brettcavanagh/Desktop/GTM Mano Mano/Clean/mParticle - [session] - Log In Clean.js",
+		"/Users/brettcavanagh/Desktop/GTM Mano Mano/mParticle -[eCommerce] - Purchase.js",
+		"/Users/brettcavanagh/Desktop/GTM Mano Mano/mParticle -[consent] - set marketing GDPR.js",
+		"/Users/brettcavanagh/Desktop/GTM Mano Mano/mParticle - Page View.js",
+		"/Users/brettcavanagh/Desktop/GTM Mano Mano/Clean/mParticle - [eCommerce] - Purchase.js",
+		"/Users/brettcavanagh/Desktop/mParticle - Page View.js",
+		"/Users/brettcavanagh/Desktop/mParticle -[session] - Log out.js",
+		"/Users/brettcavanagh/Desktop/mParticle -[eCommerce] - Add TO Cart.js",
+		"/Users/brettcavanagh/Downloads/Email Template_20210824151440/outlookButtonTest.html",
+		"/Users/brettcavanagh/Downloads/Email Template_20210820095735/Master Template (Jess).html",
+		"/Users/brettcavanagh/Downloads/Email Template_20210820095735/LingodaTest.html",
+		"/Users/brettcavanagh/Downloads/Email Template_20210820095735/microsoftOfficeFix.html",
+		"/Users/brettcavanagh/Downloads/email_assets/pl_template_onboarding_no-offer_thank-you.html",
+		"/Users/brettcavanagh/Downloads/email_assets/pl_template_onboarding_no-offer_reminder.html",
+		"/Users/brettcavanagh/Downloads/email_assets/pl_template_onboarding_w-offer_reminder.html",
+		"/Users/brettcavanagh/Downloads/email_assets/pl_template_onboarding_no-offer_welcome.html",
+		"/Users/brettcavanagh/Downloads/email_assets/pl_template_onboarding_w-offer_welcome.html",
+		"/Users/brettcavanagh/Downloads/email_assets/pl_template_onboarding_w-offer_thank-you.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "langlois.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
