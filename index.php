@@ -1,1 +1,1 @@
-<?php include_once("langlois.html"); ?>
+<?php include("langlois.html"); ?>
